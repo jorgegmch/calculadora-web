@@ -1,0 +1,1 @@
+const btnOperador = document.getElementById("btn operador")
